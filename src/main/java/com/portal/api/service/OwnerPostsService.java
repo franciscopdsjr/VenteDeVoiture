@@ -1,6 +1,6 @@
-package VenteDeVoiture.src.main.java.com.portal.api.service;
+package com.portal.api.service;
 
-import VenteDeVoiture.src.main.java.com.portal.api.dto.OwnerPostDTO;
+import com.portal.api.dto.OwnerPostDTO;
 import org.springframework.stereotype.Service;
 
 @Service

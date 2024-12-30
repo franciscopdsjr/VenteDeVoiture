@@ -1,4 +1,4 @@
-package VenteDeVoiture.src.main.java.com.portal.api.dto;
+package com.portal.api.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.AllArgsConstructor;

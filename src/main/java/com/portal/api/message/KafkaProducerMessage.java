@@ -1,6 +1,7 @@
-package VenteDeVoiture.src.main.java.com.portal.api.message;
+package com.portal.api.message;
 
-import VenteDeVoiture.src.main.java.com.portal.api.dto.CarPostDTO;
+
+import com.portal.api.dto.CarPostDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Component;

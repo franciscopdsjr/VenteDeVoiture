@@ -1,7 +1,7 @@
-package VenteDeVoiture.src.main.java.com.portal.api.service;
+package com.portal.api.service;
 
-import VenteDeVoiture.src.main.java.com.portal.api.client.CarPostStoreClient;
-import VenteDeVoiture.src.main.java.com.portal.api.dto.CarPostDTO;
+import com.portal.api.client.CarPostStoreClient;
+import com.portal.api.dto.CarPostDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

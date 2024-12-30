@@ -1,4 +1,4 @@
-package VenteDeVoiture.src.main.java.com.portal.api.client;
+package com.portal.api.client;
 
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.context.annotation.Bean;

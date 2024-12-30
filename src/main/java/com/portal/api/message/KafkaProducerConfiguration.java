@@ -1,6 +1,7 @@
-package VenteDeVoiture.src.main.java.com.portal.api.message;
+package com.portal.api.message;
 
-import VenteDeVoiture.src.main.java.com.portal.api.dto.CarPostDTO;
+
+import com.portal.api.dto.CarPostDTO;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
 import org.springframework.beans.factory.annotation.Value;

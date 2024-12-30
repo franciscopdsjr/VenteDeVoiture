@@ -1,7 +1,8 @@
-package VenteDeVoiture.src.main.java.com.portal.api.client;
+package com.portal.api.client;
 
-import VenteDeVoiture.src.main.java.com.portal.api.dto.CarPostDTO;
-import VenteDeVoiture.src.main.java.com.portal.api.dto.OwnerPostDTO;
+
+import com.portal.api.dto.CarPostDTO;
+import com.portal.api.dto.OwnerPostDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
